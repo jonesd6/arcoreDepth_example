@@ -4,13 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76585565-1b5a-4b51-8020-2dc140cd072b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/sharedcamera_example/DepthCamera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/sharedcamera_example/DepthFrameVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/common/rendering/BackgroundRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/common/rendering/BackgroundRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/sharedcamera_example/SharedCameraActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/sharedcamera_example/SharedCameraActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/sharedcamera_example/TOF_ImageReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/sharedcamera_example/TOF_ImageReader.java" afterDir="false" />
-    </list>
+    <list default="true" id="76585565-1b5a-4b51-8020-2dc140cd072b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/common/rendering/BackgroundRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2516">
-              <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+            <state relative-caret-position="765">
+              <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -106,8 +100,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1120" />
-    <option name="y" value="49" />
+    <option name="x" value="1119" />
+    <option name="y" value="48" />
     <option name="width" value="2214" />
     <option name="height" value="2076" />
   </component>
@@ -266,6 +260,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="747" y="33" width="1476" height="1384" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.18785311" />
       <window_info id="Structure" side_tool="true" />
@@ -324,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/matt/arcore/java/common/rendering/BackgroundRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2516">
-          <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+        <state relative-caret-position="765">
+          <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
         </state>
       </provider>
     </entry>
